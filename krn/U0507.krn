@@ -1,0 +1,67 @@
+!!!Rep U0507
+!!!Isim(Name): Bebek Seni Belemedim
+!!!Yore(Region): Gaziantep
+!!!Makam: Hüseyni
+!!!Arizalar(Accidentals): b-2
+!!!Usul: Serbest
+**kern	**Dcent
+*staff1	*.
+*clefG2	*.
+*k[b-]	*.
+*MX/X	*.
+16gQ	0
+16aQ	0
+16aQ	0
+32rQ	.
+16aQ	0
+16ddQ	0
+16ddQ	0
+8ccQ	0
+16ddQ	0
+4ccQ	0
+!!linebreak:default
+16ddQ	0
+16eeQ	0
+16ddQ	0
+8ddQ	0
+8ccQ	0
+16ddQ	0
+16ddQ	0
+8ccQ	0
+ccq	0
+ddq	0
+ccq	0
+32b-Q	50
+8ccQ	0
+16b-Q	50
+8rQ	.
+!!linebreak:default
+8ddQ	0
+16eeQ	0
+16ddQ	0
+16.ddQ	0
+16ccQ	0
+16ddQ	0
+8ddQ	0
+ccq	0
+ddq	0
+ccq	0
+16b-Q	50
+16ccQ	0
+16b-Q	50
+8rQ	.
+!!linebreak:default
+8ccQ	0
+16ccQ	0
+16b-Q	50
+8b-Q	50
+8aQ	0
+16b-Q	50
+16b-Q	50
+4aQ	0
+8aQ	0
+*-	*-
+!! Uzun Hava Humdrum Bilgi Bankasi (Uzun Hava Humdrum Database)
+!! 
+!! Sertan Senturk, Parag Chordia & Erdal Tugcular
+!! Georgia Tech Center for Music Technology, 2011

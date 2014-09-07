@@ -1,0 +1,87 @@
+!!!Rep U0143
+!!!Isim(Name): Dedim Ay Efendim Gel Kıyma Bana
+!!!Yore(Region): Diyarbakır
+!!!Makam: Hüseyni
+!!!Arizalar(Accidentals): b-2
+!!!Usul: 2/4
+**kern	**Dcent
+*staff1	*.
+=1-	=1-
+*clefG2	*.
+*k[b-]	*.
+*M2/4	*.
+8a	0
+16dd	0
+16b	0
+8cc	0
+16dd	0
+16b	0
+=2	=2
+8cc	0
+16dd	0
+16b	0
+8cc	0
+16dd	0
+16b	0
+=3	=3
+8.a	0
+16a	0
+16a	0
+16a	0
+8a	0
+=4:!:	=4:!:
+!!linebreak:default
+16dd	0
+8ee	0
+16dd	0
+16dd	0
+16cc	0
+16cc	0
+16b-	50
+=5	=5
+16cc	0
+8dd	0
+16cc	0
+16cc	0
+16b-	50
+16b-	50
+16a	0
+=6	=6
+16a	0
+8cc	0
+16b-	50
+16b-	50
+16a	0
+8dd	0
+=7	=7
+!!linebreak:default
+8.a	0
+16a	0
+16a	0
+16a	0
+16a	0
+16a	0
+=8:!	=8:!
+4a	0
+32cc	0
+32dd	0
+32ee	0
+32dd	0
+32ee	0
+32ee	0
+16ee;	0
+=8b	=8b
+32ccc	0
+32bb-	50
+32ccc	0
+32bb-	50
+32ccc	0
+32bb-	50
+32ccc	0
+32ccc	0
+4ccc;	0
+*-	*-
+!! Uzun Hava Humdrum Bilgi Bankasi (Uzun Hava Humdrum Database)
+!! 
+!! Sertan Senturk, Parag Chordia & Erdal Tugcular
+!! Georgia Tech Center for Music Technology, 2011
