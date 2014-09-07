@@ -2,13 +2,13 @@
 !!!Isim(Name): Aşkın Ezeli Aşıka İlham-ı Hüda'dır
 !!!Yore(Region): Erzurum
 !!!Makam: Rast
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2 f#
 !!!Usul: 6/8, Serbest
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[b-]	*.
+*k[b-f#]	*.
 *M6/8	*.
 8.r	.
 16dd	0

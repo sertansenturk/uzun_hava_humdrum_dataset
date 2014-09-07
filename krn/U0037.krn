@@ -2,7 +2,7 @@
 !!!Isim(Name): Asrı Gurbet Harab Etmiş Köyümü
 !!!Yore(Region): Sivas - Yıldızeli
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
@@ -18,7 +18,7 @@
 16ddQ	0
 8eeQ	0
 16ddQ	0
-16ffQ	0
+16ff#Q	50
 8eeQ	0
 8eeQ	0
 4ddQ;	0
@@ -129,9 +129,9 @@
 4aQ;	0
 16ggQ	0
 16ggQ	0
-8ffQ	0
+8ff#Q	50
 16ggQ	0
-16ffQ	0
+16ff#Q	50
 4ggQ;	0
 *-	*-
 !! Uzun Hava Humdrum Bilgi Bankasi (Uzun Hava Humdrum Database)

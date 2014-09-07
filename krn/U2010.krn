@@ -2,17 +2,17 @@
 !!!Isim(Name): Kaderi Boş Dünya Çekilmez Kahrın
 !!!Yore(Region): Artvin
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2 f#
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[b-f#]	*.
+*k[b-]	*.
 *MX/X	*.
-32ff#Q	0
+32ff#Q	50
 32ggQ	0
-32ff#Q	0
+32ff#Q	50
 32ggQ	0
 4eeQ;	0
 16eeQ	0

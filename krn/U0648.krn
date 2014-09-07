@@ -2,7 +2,7 @@
 !!!Isim(Name): Hep Güzeller Derildiler Geldiler
 !!!Yore(Region): Sivas
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
@@ -11,20 +11,20 @@
 *k[b-]	*.
 *MX/X	*.
 32ggQ	0
-32ff#Q	0
+32ff#Q	50
 16ggQ	0
 16aaQ	0
 16.aaQ	0
 4aaQ;	0
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 32ggQ	0
 16.aaQ	0
 32ggQ	0
 32aaQ	0
-8ff#Q	0
+8ff#Q	50
 16ggQ	0
 4.eeQ	0
 16ffnQ	0
@@ -35,7 +35,7 @@
 8eeQ	0
 8eeQ	0
 4.eeQ	0
-16ffQ	0
+16ff#Q	50
 16ddQ	0
 4ddQ	0
 8ddQ	0

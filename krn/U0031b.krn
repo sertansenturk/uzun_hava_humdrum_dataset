@@ -2,18 +2,18 @@
 !!!Isim(Name): Ankara'da Yedim Taze Meyveyi
 !!!Yore(Region): Kırıkkale - Keskin
 !!!Makam: Hüseyni (Saba Geçkisi)
-!!!Arizalar(Accidentals): 
+!!!Donanim(Key Signature): b-3 
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[]	*.
+*k[b-]	*.
 *MX/X	*.
 8.eeQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
 16ffnQ	0
 8eeQ	0
@@ -23,7 +23,7 @@
 32eeQ	0
 32ffQ	0
 8eeQ;	0
-8.ff#Q	0
+8.ff#Q	50
 16ggQ	0
 !!linebreak:default
 16ffnQ	0
@@ -38,13 +38,13 @@
 32ffQ	0
 8eeQ;	0
 8.eeQ	0
-16ff#Q	0
+16ff#Q	50
 8ggQ	0
-ff#q	0
+ff#Q	50
 ggq	0
-16ff#Q	0
+16ff#Q	50
 16eeQ	0
-16ff#Q	0
+16ff#Q	50
 16eeQ	0
 !!linebreak:default
 32ddQ	0
@@ -69,13 +69,13 @@ ddq	0
 8ccQ;	0
 !!linebreak:default
 32eeQ	0
-32ff#Q	0
+32ff#Q	50
 32eeQ	0
-32ff#Q	0
+32ff#Q	50
 8.eeQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16.ff#Q	0
+16.ff#Q	50
 32ggQ	0
 32ffnQ	0
 32eeQ	0
@@ -129,21 +129,21 @@ ddq	0
 48aQ	0
 48b-Q	50
 8aQ;	0
-16b-Q	0
+16b-Q	50
 16ccQ	0
 !!linebreak:default
-8b-Q	0
+8b-Q	50
 32aQ	0
-32b-Q	0
+32b-Q	50
 32aQ	0
-32b-Q	0
+32b-Q	50
 32aQ	0
-32b-Q	0
+32b-Q	50
 32aQ	0
-32b-Q	0
+32b-Q	50
 4.aQ	0
 32aQ	0
-32b-Q	0
+32b-Q	50
 8aQ;	0
 =	=
 *-	*-

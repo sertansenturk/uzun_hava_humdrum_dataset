@@ -2,7 +2,7 @@
 !!!Isim(Name): Şu Dünyada Üç Nesneden Korkarım
 !!!Yore(Region): Adana
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
@@ -84,7 +84,7 @@ eeq	0
 [4eeQ	0
 4.eeQ]	0
 16.eeQ	0
-ffq	0
+ff#Q	50
 8..ddQ	0
 eeq	0
 !!linebreak:default

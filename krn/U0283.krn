@@ -1,14 +1,14 @@
 !!!Rep U0283
 !!!Isim(Name): Kemend Attın Koydun Beni Tuzağa
 !!!Yore(Region): Sivas
-!!!Makam: Hüseyni
-!!!Arizalar(Accidentals):
+!!!Makam: Uşşak
+!!!Arizalar(Accidentals): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[]	*.
+*k[b-]	*.
 *MX/X	*.
 16aQ	0
 32aQ	0

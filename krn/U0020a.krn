@@ -2,7 +2,7 @@
 !!!Isim(Name): Akşamlar Oldu Gene
 !!!Yore(Region): Şanlıurfa
 !!!Makam: Re Hicaz
-!!!Arizalar(Accidentals): b-2 e-
+!!!Donanim(Key Signature): e-
 !!!Usul: 4/4, Serbest
 **kern	**Dcent
 *staff1	*.
@@ -16,7 +16,7 @@
 8cc	0
 8dd	0
 16ee-	0
-16ff	0
+16ff#	0
 16ee-	0
 16dd	0
 8cc	0

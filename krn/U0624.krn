@@ -2,7 +2,7 @@
 !!!Isim(Name): Gider Turnam Yayladan Gider
 !!!Yore(Region): Gaziantep
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
@@ -32,7 +32,7 @@ aaq	0
 ggq	0
 aaq	0
 16ggQ	0
-[8ff#Q	0
+[8ff#Q	50
 2f#Q;]	0
 !!linebreak:default
 8.aaQ;	0
@@ -42,7 +42,7 @@ aaq	0
 16aaQ	0
 16aaQ	0
 ggq	0
-ff#q	0
+ff#Q	50
 eeq	0
 ddq	0
 ccq	0

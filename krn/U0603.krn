@@ -2,13 +2,13 @@
 !!!Isim(Name): Emine'm Oturmuş Yolun Üstüne
 !!!Yore(Region): Niğde
 !!!Makam: Kürdi
-!!!Arizalar(Accidentals): 
+!!!Donanim(Key Signature): b-
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[]	*.
+*k[b-]	*.
 *MX/X	*.
 ccq	0
 ddq	0

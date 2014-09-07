@@ -2,7 +2,7 @@
 !!!Isim(Name): Felek Vazgeçmiyor Bender
 !!!Yore(Region): Şanlıurfa
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: 10/8, Serbest
 **kern	**Dcent
 *staff1	*.
@@ -13,19 +13,19 @@
 4dd	0
 8gg	0
 8gg	0
-8ff#	0
-8ff#	0
+8ff#	50
+8ff#	50
 8ee	0
 8gg	0
 8gg	0
-8ff#	0
+8ff#	50
 =2	=2
-8ff#	0
+8ff#	50
 8ee	0
 8gg	0
 8gg	0
-8ff#	0
-8ff#	0
+8ff#	50
+8ff#	50
 8ee	0
 16ee	0
 16ffn	0

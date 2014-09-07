@@ -2,7 +2,7 @@
 !!!Isim(Name): Al Yanaktan - Al Yanaktan
 !!!Yore(Region): Elazığ
 !!!Makam: Hicaz
-!!!Arizalar(Accidentals): b- c#
+!!!Donanim(Key Signature): b- c#
 !!!Usul: 4/4, Serbest
 **kern	**Dcent
 *staff1	*.
@@ -40,7 +40,7 @@
 16.dd	0
 32cc#	0
 16dd	0
-16ff#	0
+16ff#	50
 16ee	0
 16dd	0
 16cc#	0
@@ -55,7 +55,7 @@
 16.dd	0
 32cc#	0
 16dd	0
-16ff#	0
+16ff#	50
 16ee	0
 16dd	0
 16cc#	0
@@ -75,9 +75,9 @@
 8ee	0
 8ff	0
 8.gg	0
-32ff#	0
+32ff#	50
 32ee	0
-16ff#	0
+16ff#	50
 16ee	0
 8dd	0
 =6	=6
@@ -146,26 +146,26 @@
 16aa	0
 16gg	0
 16aa	0
-8ff#	0
+8ff#	50
 16gg	0
 16gg	0
-8ff#	0
+8ff#	50
 16gg	0
 16gg	0
-8ff#	0
+8ff#	50
 =11	=11
 8aa	0
 16gg	0
 16aa	0
 16gg	0
 16aa	0
-8ff#	0
+8ff#	50
 16gg	0
 16gg	0
-8ff#	0
+8ff#	50
 16gg	0
 16gg	0
-8ff#	0
+8ff#	50
 =12	=12
 !!linebreak:default
 8aa	0
@@ -173,7 +173,7 @@
 16aa	0
 16gg	0
 16aa	0
-16ff#	0
+16ff#	50
 16gg	0
 16ffn	0
 16gg	0
@@ -188,10 +188,10 @@
 16ccc#	0
 16gg	0
 16gg	0
-16ff#	0
+16ff#	50
 16aa	0
-16ff#	0
-16ff#	0
+16ff#	50
+16ff#	50
 16ee	0
 16gg	0
 16ee	0

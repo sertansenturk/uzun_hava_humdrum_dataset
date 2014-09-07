@@ -2,12 +2,12 @@
 !!!Isim(Name): Ben de Yetim
 !!!Yore(Region): Diyarbakır
 !!!Makam: Rast
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2 f#
 !!!Usul: 2/4
 **kern	**Dcent
 *staff1	*.
 *clefG2	*.
-*k[b-]	*.
+*k[b-f#]	*.
 *M2/4	*.
 16dd	0
 16ee	0

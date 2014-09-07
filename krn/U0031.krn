@@ -2,7 +2,7 @@
 !!!Isim(Name): Ankara'da Yedim Taze Meyveyi
 !!!Yore(Region): Kırıkkale-Keskin
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
@@ -11,9 +11,9 @@
 *k[b-]	*.
 *MX/X	*.
 8.eeQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
 16ffnQ	0
 8eeQ	0
@@ -23,7 +23,7 @@
 32eeQ	0
 32ffQ	0
 8eeQ;	0
-8.ff#Q	0
+8.ff#Q	50
 16ggQ	0
 16ffnQ	0
 16eeQ	0
@@ -37,9 +37,9 @@
 8eeQ;	0
 !!linebreak:default
 8.eeQ	0
-16ff#Q	0
+16ff#Q	50
 8ggQ	0
-ff#q	0
+ff#Q	50
 ggq	0
 16ffnQ	0
 16eeQ	0
@@ -71,9 +71,9 @@ ddq	0
 32eeQ	0
 32ffQ	0
 8.eeQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16.ff#Q	0
+16.ff#Q	50
 32ggQ	0
 32ffnQ	0
 32eeQ	0
@@ -95,8 +95,8 @@ ddq	0
 8.ccQ	0
 16ddQ	0
 8eeQ	0
-8ff#Q	0
-16ff#Q	0
+8ff#Q	50
+16ff#Q	50
 16eeQ	0
 32ddQ	0
 32eeQ	0

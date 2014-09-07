@@ -1,8 +1,8 @@
 !!!Rep U0120
 !!!Isim(Name): Buy-i Vahdet Almışam Busi-Lebi Peymaneden
-!!!Yore(Region): Diyrbakır
+!!!Yore(Region): Diyarbakır
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: 4/4
 **kern	**Dcent
 *staff1	*.
@@ -13,14 +13,14 @@
 4ee	0
 8ee	0
 8gg	0
-8ff	0
+8ff#	50
 8ee	0
 4dd	0
 =2	=2
 8.dd	0
 16cc	0
 8dd	0
-8ff	0
+8ff#	50
 8ee	0
 8dd	0
 16cc	0
@@ -31,7 +31,7 @@
 !!linebreak:default
 4a	0
 8a	0
-8ff	0
+8ff#	50
 8e	0
 8dd	0
 16cc	0
@@ -47,7 +47,7 @@
 4ee	0
 =5	=5
 16ee	0
-16ff	0
+16ff#	50
 16ee	0
 16dd	0
 8cc	0
@@ -83,15 +83,15 @@
 !!linebreak:default
 8gg	0
 16gg	0
-16ff	0
+16ff#	50
 4ee	0
 8gg	0
-16ff	0
+16ff#	50
 16ee	0
 4dd	0
 =10	=10
 16ee	0
-16ff	0
+16ff#	50
 8dd	0
 8dd	0
 ddq	0
@@ -135,15 +135,15 @@ ddq	0
 !!linebreak:default
 16dd	0
 16ee	0
-16ff#	0
+16ff#	50
 16gg	0
 4aa	0
 16aa	0
 16gg	0
-16ff#	0
+16ff#	50
 16ee	0
 8dd	0
-16ff#	0
+16ff#	50
 16gg	0
 =16	=16
 4aa	0
@@ -154,23 +154,23 @@ ddq	0
 16gg	0
 16aa	0
 16gg	0
-16ff#	0
-16ff#	0
+16ff#	50
+16ff#	50
 16gg	0
-16ff#	0
+16ff#	50
 16ee	0
 =17	=17
 !!linebreak:default
 8r	.
 16ee	0
-16ff#	0
+16ff#	50
 16gg	0
 16aa	0
 16gg	0
-16ff#	0
-16ff#	0
+16ff#	50
+16ff#	50
 16gg	0
-16ff#	0
+16ff#	50
 16ee	0
 16ee	0
 16ffn	0
@@ -181,7 +181,7 @@ ddq	0
 16cc	0
 16dd	0
 16ee	0
-16ff	0
+16ff#	50
 16ee	0
 16dd	0
 16dd	0

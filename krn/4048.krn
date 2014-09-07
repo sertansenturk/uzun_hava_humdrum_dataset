@@ -1,8 +1,8 @@
 !!!Rep 4048
-!!!Name: Bülbül Güle Kon Dikene Konma 
-!!!Region: Şanlıurfa
+!!!Isim(Name): Bülbül Güle Kon Dikene Konma 
+!!!Yore(Region): Şanlıurfa
 !!!Makam: Rast
-!!!Accidentals: b-2 f#
+!!!Donanim(Key Signature): b-2 f#
 !!!Usul: 2/4 X/X
 **kern	**Dcent
 *staff1	*.
@@ -101,27 +101,27 @@
 =12	=12
 !!linebreak:default
 *MX/X	*
-ff#q	0
+ff#Q	50
 8ggQ	0
 8ggQ	0
 8.ggQ	0
 8rQ	.
-ff#q	0
+ff#Q	50
 16ggQ	0
 16ggQ	0
 8.ggQ	0
-ff#q	0
+ff#Q	50
 16ggQ	0
 16ggQ	0
 16ggQ	0
 8ggQ	0
 16.ggQ	0
 32aaQ	0
-16.ff#Q	0
+16.ff#Q	50
 32aaQ	0
 4ggQ;	0
 8rQ	.
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
 4aaQ;	0
 64dddQ	0
@@ -134,13 +134,13 @@ ff#q	0
 64bb-Q	50
 32.ggQ	0
 64aaaQ	0
-32.ff#Q	0
+32.ff#Q	50
 32ggQ	0
 8..eeQ	0
 32ggQ	0
-32ff#Q	0
+32ff#Q	50
 16ggQ	0
-ff#q	0
+ff#Q	50
 8ggQ	0
 16ggQ	0
 16ggQ	0
@@ -149,20 +149,20 @@ ff#q	0
 16ggQ	0
 16ggQ	0
 16ggQ	0
-16..ff#Q	0
+16..ff#Q	50
 32ggQ	0
 !!linebreak:default
 4.eeQ	0
 64aaQ	0
 32.ggQ	0
 64aaQ	0
-32.ff#Q	0
+32.ff#Q	50
 64ggQ	0
 32.eeQ	0
-32ff#Q	0
+32ff#Q	50
 4ddQ;	0
 8rQ	.
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
 4aaQ;	0
 64dddQ	0
@@ -174,18 +174,18 @@ ff#q	0
 64bb-Q	50
 32.ggQ	0
 64aaQ	0
-32.ff#Q	0
+32.ff#Q	50
 !!linebreak:default
 32ggQ	0
 8..eeQ	0
 32ggQ	0
-32ff#Q	0
+32ff#Q	50
 16ggQ	0
-ff#q	0
+ff#Q	50
 16ggQ	0
 16ggQ	0
 8ggQ	0
-ff#q	0
+ff#Q	50
 8ggQ	0
 8ggQ	0
 16ggQ	0
@@ -193,7 +193,7 @@ ff#q	0
 8ggQ	0
 16.ggQ	0
 32aaQ	0
-16.ff#Q	0
+16.ff#Q	50
 32aaQ	0
 4ggQ;	0
 =||13	=||13

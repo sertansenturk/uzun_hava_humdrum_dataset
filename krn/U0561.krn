@@ -2,7 +2,7 @@
 !!!Isim(Name): Kar mı Yağmış Diyarbakır'ın Dağına
 !!!Yore(Region): Diyarbakır
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: 10/8
 **kern	**Dcent
 *staff1	*.
@@ -80,7 +80,7 @@
 4e;	0
 =9	=9
 16gg	0
-16ff#	0
+16ff#	50
 16gg	0
 16gg	0
 4gg;	0

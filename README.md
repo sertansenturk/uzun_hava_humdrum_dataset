@@ -3,10 +3,10 @@ uzun_hava_humdrum_dataset
 
 A dataset of music scores of the uzun hava form in Humdrum format
 
-This release contains the scores of uzun hava in **kern format. The dataset is used in the paper:
+This release contains the scores of uzun hava in **kern format. The dataset is used in the masters thesis:
 
-Şentürk, S. and Chordia, P. (2011). Modeling melodic improvisation in Turkish folk music using variable-length Markov models. In Proceedings of 12th International Society for Music Information Retrieval Conference, pages 269–274, Miami, Florida.
+Şentürk, S. (2011). Computational modeling of improvisation in Turkish folk music using variable-length Markov models. Master’s thesis, Georgia Institute of Technology, Atlanta.
 
 Please cite the publication above in any work using this dataset.
 
-This version has 64 songs encoded, with a total of 6613 notes, in 8 makams from different regions of Anatolia and Azerbaijan. For more information about the dataset, please refer to the paper.
+This version has 77 uzun havas from different regions of Anatolia, Iraq and Caucasus. It consists of 10849 notes in total, in 8 makams. For more information about the dataset, please refer to the paper.

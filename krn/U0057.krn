@@ -2,7 +2,7 @@
 !!!Isim(Name): Ayrılık Badesi Tatlı mı Sandın
 !!!Yore(Region): Sivas
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
@@ -10,20 +10,20 @@
 *clefG2	*.
 *k[b-]	*.
 *MX/X	*.
-8ff#Q	0
+8ff#Q	50
 8ggQ	0
 [2aaQ	0
 1aaQ]	0
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
 16aaQ	0
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 4ggQ;	0
 8.bb-Q	50
 16cccQ	0
@@ -68,24 +68,24 @@
 16aaQ	0
 8aaQ	0
 32ggQ	0
-32ff#Q	0
+32ff#Q	50
 16ggQ	0
 4rQ;	.
-8ff#Q	0
+8ff#Q	50
 8ggQ	0
 [2aaQ	0
 1aaQ]	0
 !!linebreak:default
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
 16aaQ	0
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 4ff#Q;	0
 16bb-Q	50
 16cccQ	0
@@ -122,16 +122,16 @@
 !!linebreak:default
 8aaQ	0
 32ggQ	0
-32ff#Q	0
+32ff#Q	50
 16ggQ	0
 4rQ;	.
-4ff#Q	0
+4ff#Q	50
 16ggQ	0
 16aaQ	0
 16aaQ	0
 8.aaQ	0
 32ggQ	0
-32ff#Q	0
+32ff#Q	50
 16ggQ	0
 16cccQ	0
 8bb-Q	50

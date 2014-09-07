@@ -2,17 +2,17 @@
 !!!Isim(Name): Akşamlar Oldu Gene
 !!!Yore(Region): Şanlıurfa
 !!!Makam: Hicaz
-!!!Arizalar(Accidentals): b-
+!!!Donanim(Key Signature): b- c#
 !!!Usul: 4/4, Serbest
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[b-]	*.
+*k[b-c#]	*.
 *M4/4	*.
 8d	0
 8e	0
-8f#	0
+8f#	50
 8g	0
 8a	0
 16b-	0
@@ -98,7 +98,7 @@
 8cc#	0
 8dd	0
 16ee	0
-16ff	0
+16ff#	50
 16ee	0
 16dd	0
 16cc#	0

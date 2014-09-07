@@ -2,7 +2,7 @@
 !!!Isim(Name): Asaf'ın Miktarını Milmez Süleyman Olmayan
 !!!Yore(Region): Şanlıurfa
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: 2/4
 **kern	**Dcent
 *staff1	*.
@@ -97,11 +97,11 @@
 4r	.
 !!linebreak:default
 =12!:	=12!:
-8ff#	0
+8ff#	50
 8gg	0
 4aa	0
 =13	=13
-8ff	0
+8ff#	50
 8gg	0
 4aa	0
 =14	=14
@@ -112,10 +112,10 @@
 8aa	0
 =15	=15
 8gg	0
-8ff#	0
+8ff#	50
 16gg	0
 16aa	0
-16ff#	0
+16ff#	50
 16gg	0
 =16	=16
 !!linebreak:default
@@ -130,7 +130,7 @@
 =18:!	=18:!
 8ee	0
 16ee	0
-16ff	0
+16ff#	50
 8ee	0
 8dd	0
 =19	=19
@@ -162,10 +162,10 @@
 16aa	0
 =23	=23
 !!linebreak:default
-16ff#	0
+16ff#	50
 16gg	0
 16ee	0
-16ff#	0
+16ff#	50
 8dd	0
 8r	.
 =24	=24
@@ -192,12 +192,12 @@
 8gg	0
 8aa	0
 8aa	0
-8ff#	0
+8ff#	50
 =29	=29
 8gg	0
 8aa	0
 8aa	0
-8ff#	0
+8ff#	50
 =30	=30
 8gg	0
 16aa	0
@@ -207,10 +207,10 @@
 16gg	0
 16aa	0
 =31	=31
-16ff#	0
+16ff#	50
 16gg	0
 16ee	0
-16ff#	0
+16ff#	50
 8dd	0
 8r	.
 =32	=32
@@ -229,7 +229,7 @@
 !!linebreak:default
 8dd	0
 16ee	0
-16ff	0
+16ff#	50
 8ee	0
 16dd	0
 16ee	0
@@ -307,11 +307,11 @@
 4r	.
 =45b	=45b
 !!linebreak:default
-8ff#	0
+8ff#	50
 8gg	0
 4aa	0
 =46	=46
-8ff#	0
+8ff#	50
 8gg	0
 4aa	0
 =47	=47
@@ -322,10 +322,10 @@
 8aa	0
 =47	=47
 8gg	0
-8ff	0
+8ff#	50
 16gg	0
 16aa	0
-16ff	0
+16ff#	50
 16gg	0
 =48	=48
 !!pagebreak:default
@@ -340,7 +340,7 @@
 =50:!	=50:!
 8ee	0
 16ee	0
-16ff	0
+16ff#	50
 8ee	0
 8dd	0
 =49b	=49b

@@ -2,19 +2,19 @@
 !!!Isim(Name): Dinle Baba Dinle Ahvalatımı
 !!!Yore(Region): Artvin
 !!!Makam: Hicaz
-!!!Arizalar(Accidentals): b- c# f#
+!!!Donanim(Key Signature): b- c#
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[b-c#f#]	*.
+*k[b-c#]	*.
 *MX/X	*.
 4ggQ;	0
-16ff#Q	0
+16ff#Q	50
 ggq	0
 16eeQ	0
-ff#q	0
+ff#Q	50
 16ddQ	0
 16ggQ	0
 32ggQ	0
@@ -22,7 +22,7 @@ ff#q	0
 32ggQ	0
 32ggQ	0
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16eeQ	0
 16ddQ	0
 !!linebreak:default
@@ -39,7 +39,7 @@ ddq	0
 16aQ	0
 4aQ;	0
 !!linebreak:default
-16.ff#Q	0
+16.ff#Q	50
 32ggQ	0
 16eeQ	0
 16ffnQ	0
@@ -59,17 +59,17 @@ ddq	0
 4aQ;	0
 !!linebreak:default
 4ggQ;	0
-16ff#Q	0
+16ff#Q	50
 ggq	0
 16eeQ	0
-ff#q	0
+ff#Q	50
 16ddQ	0
 16ggQ	0
 16ggQ	0
 16ggQ	0
 16ggQ	0
 16ggQ	0
-16ff#Q	0
+16ff#Q	50
 16eeQ	0
 16ddQ	0
 !!linebreak:default

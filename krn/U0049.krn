@@ -2,13 +2,13 @@
 !!!Isim(Name): Aşkın Ne Derin Yareler Açtı Ciğerimde
 !!!Yore(Region): Şanlıurfa
 !!!Makam: Hicaz
-!!!Arizalar(Accidentals): b-
+!!!Donanim(Key Signature): b- c#
 !!!Usul: 6/4
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[b-]	*.
+*k[b-c#]	*.
 *M6/4	*.
 4a	0
 8dd	0
@@ -57,7 +57,7 @@
 !!linebreak:default
 4dd	0
 8gg	0
-8ff#	0
+8ff#	50
 8gg	0
 8ee	0
 8ffn	0
@@ -81,7 +81,7 @@
 8aa	0
 8gg	0
 8gg	0
-8ff#	0
+8ff#	50
 8ffn	0
 8ee	0
 8ff	0

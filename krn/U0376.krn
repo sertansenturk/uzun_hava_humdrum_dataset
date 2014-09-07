@@ -2,13 +2,13 @@
 !!!Isim(Name): Yara Yeri
 !!!Yore(Region): Irak - Kerkük
 !!!Makam: Nikriz
-!!!Arizalar(Accidentals):
+!!!Donanim(Key Signature): b- c#
 !!!Usul: 10/8
 **kern	**Dcent
 *staff1	*.
 =1-	=1-
 *clefG2	*.
-*k[]	*.
+*k[b- c#]	*.
 *M10/8	*.
 8ee	0
 8ff	0
@@ -25,8 +25,8 @@
 8ee	0
 8dd	0
 8dd	0
-8cc	0
-4cc	0
+8cc#	50
+4cc#	50
 8r	.
 =3:!:	=3:!:
 4r	.
@@ -36,32 +36,32 @@
 8ee-	0
 8dd	0
 8gg	0
-8ff#	0
+8ff#	50
 8ee-	0
 =4	=4
 !!linebreak:default
 8dd	0
-8cc	0
+8cc#	50
 8ee-	0
 8dd	0
-8cc	0
-8cc	0
-8b	0
-4cc	0
+8cc#	50
+8cc#	50
+8b-	50
+4cc#	50
 8r	.
 =5:!	=5:!
 4g	0
 8g	0
-4cc	0
+4cc#	50
 4g	0
-4cc	0
+4cc#	50
 8r	.
 =6	=6
 4g	0
 8g	0
-4cc	0
+4cc#	50
 4g	0
-4cc	0
+4cc#	50
 8r	.
 =7	=7
 *-	*-

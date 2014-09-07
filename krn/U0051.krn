@@ -2,7 +2,7 @@
 !!!Isim(Name): Atıma Verdiler Sarı Samanı
 !!!Yore(Region): Şanlıurfa
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
@@ -23,7 +23,7 @@
 4ddQ;	0
 32ddQ	0
 32ggQ	0
-16ffQ	0
+16ff#Q	50
 16eeQ	0
 16ddQ	0
 16eeQ	0

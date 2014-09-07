@@ -2,7 +2,7 @@
 !!!Isim(Name): Elveda Günüdür Çimenli Dağlar
 !!!Yore(Region): Artvin
 !!!Makam: Hüseyni
-!!!Arizalar(Accidentals): b-2
+!!!Donanim(Key Signature): b-2
 !!!Usul: Serbest
 **kern	**Dcent
 *staff1	*.
@@ -16,12 +16,12 @@
 16eeQ	0
 16eeQ	0
 32eeQ	0
-32ffQ	0
+32ff#Q	50
 32eeQ	0
-32ffQ	0
+32ff#Q	50
 4eeQ;	0
 16eeQ	0
-16ffQ	0
+16ff#Q	50
 16ddQ	0
 16eeQ	0
 16eeQ	0
